@@ -19,7 +19,7 @@ This repo includes the resumes of the following people:
 * Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
 
 ###### [Daesik Choi]
-* 5 sentence summary describing the person from Resume 3.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+* I am currently a student at University of California, Berkeley. My intended major is Data Science. I am a bit shy. My life motto is "Do your best." My hobbies are indoor rock-climbing, playing game, and watching movies. I hope to learn many things from this Data Science Skill DeCal.
+* Jobs interested in: [Data Analyst, Data Scientist, Software Engineer]
 
 
