@@ -1,6 +1,6 @@
 # Data Science Skills Decal Project 1
 
-**Team Members:** [List the full names of all team members here]  
+**Team Members:** [Alexander Takemori, Daesik Choi, Sujin Kim]  
 
 **Resumes and Descriptions**  
 
@@ -18,7 +18,7 @@ This repo includes the resumes of the following people:
 * 5 sentence summary describing the person from Resume 2.
 * Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
 
-###### [Name of Person that Resume 3 is about]
+###### [Daesik Choi]
 * 5 sentence summary describing the person from Resume 3.
 * Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
 
