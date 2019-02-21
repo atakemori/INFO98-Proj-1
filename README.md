@@ -1,6 +1,6 @@
 # Data Science Skills Decal Project 1
 
-**Team Members:** [Alexander Takemori, Daesik Choi, Sujin Kim, Ashley Chan]  
+**Team Members:** [Sujin Kim, Daesik Choi, Ashley Chan, Alexander Takemori]  
 
 **Resumes and Descriptions**  
 
